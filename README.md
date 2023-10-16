@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezraike&show_icons=true&locale=en" alt="ezraike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezraike&" alt="ezraike" /></p>
-### Hi there 👋
+
 
 <!--
 **ezraike/ezraike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
